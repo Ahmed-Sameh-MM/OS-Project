@@ -1,0 +1,1 @@
+cp /home/Scheduling/rr/schedule.c /usr/src/minix/servers/sched/schedule.c ; cp /home/Scheduling/rr/config.h /usr/src/minix/include/minix/config.h ; cp /home/Scheduling/rr/schedproc.h /usr/src/minix/servers/sched/schedproc.h ; cd /usr/src/releasetools ; make hdboot ; reboot

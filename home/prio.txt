@@ -1,0 +1,1 @@
+cp /home/Scheduling/prio/schedule.c /usr/src/minix/servers/sched/schedule.c ; cd /usr/src/releasetools ; make hdboot ; reboot

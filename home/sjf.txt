@@ -1,0 +1,1 @@
+cp /home/Scheduling/sjf/new/usr/src /usr/src/ ; cd /usr/src/releasetools ; make hdboot ; reboot

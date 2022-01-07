@@ -1,0 +1,1 @@
+cp /home/Scheduling/mlfb/schedule.c /usr/src/minix/servers/sched/schedule.c ; cp /home/Scheduling/mlfb/config.h /usr/src/minix/include/minix/config.h ; cp /home/Scheduling/mlfb/schedproc.h /usr/src/minix/servers/sched/schedproc.h ; cp /home/Scheduling/mlfb/proto.h /usr/src/minix/servers/sched/proto.h ; cd /usr/src/releasetools ; make hdboot ; reboot
